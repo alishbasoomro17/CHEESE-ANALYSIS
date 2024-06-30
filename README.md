@@ -1,4 +1,4 @@
-# Power BI Analysis: AL-SHIFA HOSPITAL DOCTOR & PATIENTS DATASET
+# Power BI Analysis: CHEESE AND THEIR PRODUCERS DATASET
 
 ## Overview
 This repository contains a Power BI analysis of a dataset encompassing Cheese details and producers . The analysis aims to derive actionable insights to enhance operational efficiency.
@@ -14,6 +14,6 @@ This repository contains a Power BI analysis of a dataset encompassing Cheese de
 - The Excel dataset, and theme are provided in the downloadable zip folder.
 
 ## Static View of Dashboard
-![Static View of Dashboard]("cheeseA.png")
+![Static View of Dashboard](cheeseA.png)
 
 
